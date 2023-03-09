@@ -1,0 +1,6 @@
+export {default as Home} from './Home'
+export {default as Cart} from './Cart'
+export {default as Location} from './Location'
+export {default as Profile} from './Profile'
+export {default as Details} from './Details'
+export {default as Purcharge} from './Purcharge'
